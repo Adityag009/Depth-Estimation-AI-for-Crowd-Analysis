@@ -2,19 +2,6 @@
 
 This project explores **depth estimation and AI techniques** for **crowd analysis and management**, inspired by the **Maha Kumbh Mela**. Using deep learning, we generate **depth maps** and apply **heatmaps & object detection** to analyze crowd density.
 
-```json
-{
-	"question": "Which of the following strategies is most effective for improving a website's organic search ranking over the long term?",
-	"options": [
-		"Regularly updating content with high-quality, relevant information",
-		"Focusing solely on acquiring backlinks from high-authority domains",
-		"Implementing hidden text to include more keywords on pages",
-		"Using paid search ads to boost visibility while neglecting SEO"
-	],
-	"answer": "Regularly updating content with high-quality, relevant information"
-}
-```
-
 
 ## 📌 Features
 
